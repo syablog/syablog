@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @syablog
+- 👋 Hi, I’m @cheric0c0
 - 👀 I’m interested in UGC, reading, writing, testing apps and websites, finding new recipes, and reviewing skincare and fragrance products 
 - 🌱 I’m currently learning computational linguistics
 - 💞️ I’m looking to collaborate on projects relating to my interests.
